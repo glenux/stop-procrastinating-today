@@ -1,3 +1,417 @@
----
-layout: feed
----
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POWA Accompagnement</title>
+    <description></description>
+    <link>https://powa-accompagnement.github.io/powa-accompagnement/</link>
+    <atom:link href="https://powa-accompagnement.github.io/powa-accompagnement/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 24 Mar 2019 14:58:47 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 14:58:47 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Maintenance</title>
+        <description>
+</description>
+        <pubDate>Tue, 12 Jun 2018 09:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2018/06/12/service-maintenance-fr/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2018/06/12/service-maintenance-fr/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Maintenance</title>
+        <description>
+</description>
+        <pubDate>Tue, 12 Jun 2018 09:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2018/06/12/service-maintenance-en/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2018/06/12/service-maintenance-en/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Développement</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Jun 2018 09:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2018/06/11/service-developpement-fr/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2018/06/11/service-developpement-fr/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Development</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Jun 2018 09:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2018/06/11/service-developpement-en/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2018/06/11/service-developpement-en/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Conception</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Jun 2018 09:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2018/06/10/service-conception-fr/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2018/06/10/service-conception-fr/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Conception</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Jun 2018 09:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2018/06/10/service-conception-en/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2018/06/10/service-conception-en/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Politique de confidentialité</title>
+        <description>&lt;h4 id=&quot;acceptation-de-fait&quot;&gt;Acceptation de fait&lt;/h4&gt;
+
+&lt;p&gt;En utilisant BOLDCODE.IO, l’internaute prend note et accepte les
+conditions ici après énumérées.&lt;/p&gt;
+
+&lt;h4 id=&quot;abus&quot;&gt;Abus&lt;/h4&gt;
+
+&lt;p&gt;En application de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l’économie numérique, pour signaler un contenu litigieux ou si vous êtes
+victime d’une utilisation frauduleuse du site BOLDCODE.IO, merci de
+contacter l’administrateur du site à l’adresse courriel :
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;collecte-et-traitement-de-données-personnelles&quot;&gt;Collecte et traitement de données personnelles&lt;/h4&gt;
+
+&lt;p&gt;Les informations recueillies par BOLDCODE.IO ne sont jamais communiquées
+à des tiers sans le consentement explicite des personnes concernées.&lt;/p&gt;
+
+&lt;p&gt;Sauf cas particulier et encadré sur le support de collecte, ces informations
+proviennent de l’enregistrement volontaire de données personnelles fournies
+par l’internaute, avec son consentement explicite sur l’usage et le traitement
+de ces données.&lt;/p&gt;
+
+&lt;p&gt;En application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique,
+aux fichiers et aux libertés, l’internaute dispose d’un droit d’accès, de
+rectification et de suppression des informations personnelles le concernant
+stockées par BOLDCODE.IO, qu’il peut exercer à tout moment auprès de son
+responsable, Glenn ROLLAND, à l’adresse suivante :
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cookies&quot;&gt;Cookies&lt;/h4&gt;
+
+&lt;p&gt;Le site BOLDCODE.IO n’utilise d’aucun cookie, il est cookies free :)&lt;/p&gt;
+
+&lt;p&gt;Toutefois BOLDCODE.IO utilise CLOUDFLARE a des fins de distribution du
+contenu des pages, entre l’hébergeur et l’internaute. Ce service insère un
+cookie a des fins techniques pour lui permettre d’acheminer correctement la
+connexion de l’internaute dans son infrastructure durant la visite du site.&lt;/p&gt;
+
+&lt;h4 id=&quot;propriétaire--éditeur&quot;&gt;Propriétaire / Éditeur&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO est un site web édité par la société BOLDCODE SAS et publié sous la direction de Glenn ROLLAND.&lt;/p&gt;
+
+&lt;p&gt;L’ensemble du site boldcode.io, pages et contenus, est la propriété de
+BOLDCODE SAS&lt;/p&gt;
+
+&lt;p&gt;Contact administratif du site BOLDCODE.IO : Glenn ROLLAND
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hébergeur&quot;&gt;Hébergeur&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO décline toute responsabilité quant aux éventuelles
+interruptions du site BOLDCODE.IO et de ses services.&lt;/p&gt;
+
+&lt;h4 id=&quot;concepteur--créateur&quot;&gt;Concepteur / Créateur&lt;/h4&gt;
+
+&lt;p&gt;L’ensemble du site BOLDCODE.IO, conception, charte graphique et
+applications, a été créé et développé et est administré par BOLDCODE SAS.&lt;/p&gt;
+
+&lt;h4 id=&quot;contenus-et-droits-de-reproduction&quot;&gt;Contenus et droits de reproduction&lt;/h4&gt;
+
+&lt;p&gt;En application des articles L. 111-1 et L. 123-1 du Code de la Propriété
+Intellectuelle, l’ensemble des contenus de ce site (textes, images, vidéos et
+tout média en général), sauf mention contraire explicite, est protégé par le
+droit d’auteur. La reproduction, même partielle, des contenus des pages de ce
+site sans accord préalable de BOLDCODE SAS est strictement interdite (les courtes
+citations sont autorisées par le droit français pour commentaires et
+critiques, tant que ceux-ci y sont strictement concomitants et que sont
+précisés l’auteur original et le lien Internet vers la page source).&lt;/p&gt;
+
+&lt;p&gt;BOLDCODE SAS est immatriculée au RCS d’Annecy : 837 643 931 &lt;!-- &amp; géré par Fred
+de la compta  --&gt;&lt;/p&gt;
+
+&lt;p&gt;© Copyright BOLDCODE SAS — Tous droits réservés.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/privacy-policy-fr/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/privacy-policy-fr/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Privacy Policy</title>
+        <description>&lt;h4 id=&quot;acceptation-de-fait&quot;&gt;Acceptation de fait&lt;/h4&gt;
+
+&lt;p&gt;En utilisant BOLDCODE.IO, l’internaute prend note et accepte les
+conditions ici après énumérées.&lt;/p&gt;
+
+&lt;h4 id=&quot;abus&quot;&gt;Abus&lt;/h4&gt;
+
+&lt;p&gt;En application de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l’économie numérique, pour signaler un contenu litigieux ou si vous êtes
+victime d’une utilisation frauduleuse du site BOLDCODE.IO, merci de
+contacter l’administrateur du site à l’adresse courriel :
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;collecte-et-traitement-de-données-personnelles&quot;&gt;Collecte et traitement de données personnelles&lt;/h4&gt;
+
+&lt;p&gt;Les informations recueillies par BOLDCODE.IO ne sont jamais communiquées
+à des tiers sans le consentement explicite des personnes concernées.&lt;/p&gt;
+
+&lt;p&gt;Sauf cas particulier et encadré sur le support de collecte, ces informations
+proviennent de l’enregistrement volontaire de données personnelles fournies
+par l’internaute, avec son consentement explicite sur l’usage et le traitement
+de ces données.&lt;/p&gt;
+
+&lt;p&gt;En application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique,
+aux fichiers et aux libertés, l’internaute dispose d’un droit d’accès, de
+rectification et de suppression des informations personnelles le concernant
+stockées par BOLDCODE.IO, qu’il peut exercer à tout moment auprès de son
+responsable, Glenn ROLLAND, à l’adresse suivante :
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cookies&quot;&gt;Cookies&lt;/h4&gt;
+
+&lt;p&gt;Le site BOLDCODE.IO n’utilise d’aucun cookie, il est cookies free :)&lt;/p&gt;
+
+&lt;p&gt;Toutefois BOLDCODE.IO utilise CLOUDFLARE a des fins de distribution du
+contenu des pages, entre l’hébergeur et l’internaute. Ce service insère un
+cookie a des fins techniques pour lui permettre d’acheminer correctement la
+connexion de l’internaute dans son infrastructure durant la visite du site.&lt;/p&gt;
+
+&lt;h4 id=&quot;propriétaire--éditeur&quot;&gt;Propriétaire / Éditeur&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO est un site web édité par la société BOLDCODE SAS et publié sous la direction de Glenn ROLLAND.&lt;/p&gt;
+
+&lt;p&gt;L’ensemble du site boldcode.io, pages et contenus, est la propriété de
+BOLDCODE SAS&lt;/p&gt;
+
+&lt;p&gt;Contact administratif du site BOLDCODE.IO : Glenn ROLLAND
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hébergeur&quot;&gt;Hébergeur&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO décline toute responsabilité quant aux éventuelles
+interruptions du site BOLDCODE.IO et de ses services.&lt;/p&gt;
+
+&lt;h4 id=&quot;concepteur--créateur&quot;&gt;Concepteur / Créateur&lt;/h4&gt;
+
+&lt;p&gt;L’ensemble du site BOLDCODE.IO, conception, charte graphique et
+applications, a été créé et développé et est administré par BOLDCODE SAS.&lt;/p&gt;
+
+&lt;h4 id=&quot;contenus-et-droits-de-reproduction&quot;&gt;Contenus et droits de reproduction&lt;/h4&gt;
+
+&lt;p&gt;En application des articles L. 111-1 et L. 123-1 du Code de la Propriété
+Intellectuelle, l’ensemble des contenus de ce site (textes, images, vidéos et
+tout média en général), sauf mention contraire explicite, est protégé par le
+droit d’auteur. La reproduction, même partielle, des contenus des pages de ce
+site sans accord préalable de BOLDCODE SAS est strictement interdite (les courtes
+citations sont autorisées par le droit français pour commentaires et
+critiques, tant que ceux-ci y sont strictement concomitants et que sont
+précisés l’auteur original et le lien Internet vers la page source).&lt;/p&gt;
+
+&lt;p&gt;BOLDCODE SAS est immatriculée au RCS d’Annecy : 837 643 931 &lt;!-- &amp; géré par Fred
+de la compta  --&gt;&lt;/p&gt;
+
+&lt;p&gt;© Copyright BOLDCODE SAS — Tous droits réservés.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/privacy-policy-en/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/privacy-policy-en/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mentions légales</title>
+        <description>&lt;h4 id=&quot;acceptation-de-fait&quot;&gt;Acceptation de fait&lt;/h4&gt;
+
+&lt;p&gt;En utilisant BOLDCODE.IO, l’internaute prend note et accepte les
+conditions ici après énumérées.&lt;/p&gt;
+
+&lt;h4 id=&quot;abus&quot;&gt;Abus&lt;/h4&gt;
+
+&lt;p&gt;En application de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l’économie numérique, pour signaler un contenu litigieux ou si vous êtes
+victime d’une utilisation frauduleuse du site BOLDCODE.IO, merci de
+contacter l’administrateur du site à l’adresse courriel :
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;collecte-et-traitement-de-données-personnelles&quot;&gt;Collecte et traitement de données personnelles&lt;/h4&gt;
+
+&lt;p&gt;Les informations recueillies par BOLDCODE.IO ne sont jamais communiquées
+à des tiers sans le consentement explicite des personnes concernées.&lt;/p&gt;
+
+&lt;p&gt;Sauf cas particulier et encadré sur le support de collecte, ces informations
+proviennent de l’enregistrement volontaire de données personnelles fournies
+par l’internaute, avec son consentement explicite sur l’usage et le traitement
+de ces données.&lt;/p&gt;
+
+&lt;p&gt;En application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique,
+aux fichiers et aux libertés, l’internaute dispose d’un droit d’accès, de
+rectification et de suppression des informations personnelles le concernant
+stockées par BOLDCODE.IO, qu’il peut exercer à tout moment auprès de son
+responsable, Glenn ROLLAND, à l’adresse suivante :
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cookies&quot;&gt;Cookies&lt;/h4&gt;
+
+&lt;p&gt;Le site BOLDCODE.IO n’utilise d’aucun cookie, il est cookies free :)&lt;/p&gt;
+
+&lt;p&gt;Toutefois BOLDCODE.IO utilise CLOUDFLARE a des fins de distribution du
+contenu des pages, entre l’hébergeur et l’internaute. Ce service insère un
+cookie a des fins techniques pour lui permettre d’acheminer correctement la
+connexion de l’internaute dans son infrastructure durant la visite du site.&lt;/p&gt;
+
+&lt;h4 id=&quot;propriétaire--éditeur&quot;&gt;Propriétaire / Éditeur&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO est un site web édité par la société BOLDCODE SAS et publié sous la direction de Glenn ROLLAND.&lt;/p&gt;
+
+&lt;p&gt;L’ensemble du site boldcode.io, pages et contenus, est la propriété de
+BOLDCODE SAS&lt;/p&gt;
+
+&lt;p&gt;Contact administratif du site BOLDCODE.IO : Glenn ROLLAND
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hébergeur&quot;&gt;Hébergeur&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO décline toute responsabilité quant aux éventuelles
+interruptions du site BOLDCODE.IO et de ses services.&lt;/p&gt;
+
+&lt;h4 id=&quot;concepteur--créateur&quot;&gt;Concepteur / Créateur&lt;/h4&gt;
+
+&lt;p&gt;L’ensemble du site BOLDCODE.IO, conception, charte graphique et
+applications, a été créé et développé et est administré par BOLDCODE SAS.&lt;/p&gt;
+
+&lt;h4 id=&quot;contenus-et-droits-de-reproduction&quot;&gt;Contenus et droits de reproduction&lt;/h4&gt;
+
+&lt;p&gt;En application des articles L. 111-1 et L. 123-1 du Code de la Propriété
+Intellectuelle, l’ensemble des contenus de ce site (textes, images, vidéos et
+tout média en général), sauf mention contraire explicite, est protégé par le
+droit d’auteur. La reproduction, même partielle, des contenus des pages de ce
+site sans accord préalable de BOLDCODE SAS est strictement interdite (les courtes
+citations sont autorisées par le droit français pour commentaires et
+critiques, tant que ceux-ci y sont strictement concomitants et que sont
+précisés l’auteur original et le lien Internet vers la page source).&lt;/p&gt;
+
+&lt;p&gt;BOLDCODE SAS est immatriculée au RCS d’Annecy : 837 643 931 &lt;!-- &amp; géré par Fred
+de la compta  --&gt;&lt;/p&gt;
+
+&lt;p&gt;© Copyright BOLDCODE SAS — Tous droits réservés.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/mentions-legales-fr/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/mentions-legales-fr/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mentions légales</title>
+        <description>&lt;h4 id=&quot;de-facto-acceptance&quot;&gt;“De facto” acceptance&lt;/h4&gt;
+
+&lt;p&gt;By using BOLDCODE.IO, the user takes note and accepts the
+conditions listed here after.&lt;/p&gt;
+
+&lt;h4 id=&quot;abuse&quot;&gt;Abuse&lt;/h4&gt;
+
+&lt;p&gt;In application of the french law n°2004-575 of June 21st, 2004 for the
+confidence in the digital economy, to report contentious content or if you are
+victim of fraudulent use of the website BOLDCODE.IO, thank you contact the site
+administrator at the email address: &lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;collection-and-processing-of-personal-data&quot;&gt;Collection and processing of personal data&lt;/h4&gt;
+
+&lt;p&gt;The information collected by BOLDCODE.IO is never communicated
+to third parties without the express consent of the persons concerned.&lt;/p&gt;
+
+&lt;p&gt;Except in special cases and box on the collection medium, this information
+come from the voluntary registration of personal data provided
+by the user, with his explicit consent on the use and treatment
+of these data.&lt;/p&gt;
+
+&lt;p&gt;In application of the french law n°78-17 of January 6th, 1978 relative to the
+computing, files and freedoms, the Internet user has a right of access,
+rectification and deletion of personal information about him stored by
+BOLDCODE.IO, which he can exercise at any time with his responsible, Glenn
+ROLLAND, at the following address: &lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cookies&quot;&gt;Cookies&lt;/h4&gt;
+
+&lt;p&gt;The website BOLDCODE.IO does not use any cookies, it is cookies free :)&lt;/p&gt;
+
+&lt;p&gt;However BOLDCODE.IO uses CLOUDFLARE for distribution purposes of the
+content of the pages, between the host and the user. This service may inserts a
+cookie for technical purposes to allow it to properly route the
+connection of the user in his infrastructure during the visit of the site.&lt;/p&gt;
+
+&lt;h4 id=&quot;owner--publisher&quot;&gt;Owner / Publisher&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO is a website published by the company BOLDCODE SAS and published
+under the direction of Glenn ROLLAND.&lt;/p&gt;
+
+&lt;p&gt;The entire site boldcode.io, pages and contents, is the property of
+BOLDCODE SAS&lt;/p&gt;
+
+&lt;p&gt;Administrative contact of the site BOLDCODE.IO: Glenn ROLLAND
+&lt;strong&gt;glenn.rolland@boldcode.io&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hosting&quot;&gt;Hosting&lt;/h4&gt;
+
+&lt;p&gt;BOLDCODE.IO declines any responsibility as for the possible ones
+interruptions of the BOLDCODE.IO website and its services.&lt;/p&gt;
+
+&lt;h4 id=&quot;designer--creator&quot;&gt;Designer / Creator&lt;/h4&gt;
+
+&lt;p&gt;The whole site BOLDCODE.IO, design, graphic charter and
+applications, was created and developed and is administered by BOLDCODE SAS.&lt;/p&gt;
+
+&lt;h4 id=&quot;contenus-et-droits-de-reproduction&quot;&gt;Contenus et droits de reproduction&lt;/h4&gt;
+
+&lt;p&gt;In application of Articles L. 111-1 and L. 123-1 of the French Property Code
+Intellectual, all the contents of this site (texts, images, videos and
+any media in general), unless explicitly stated otherwise, is protected by the
+copyright. The reproduction, even partial, of the contents of the pages of this
+without the prior consent of BOLDCODE SAS is strictly prohibited (short
+citations are permitted by French law for comments and
+as long as they are strictly concomitant and are
+specified the original author and the web link to the source page).&lt;/p&gt;
+
+&lt;p&gt;BOLDCODE SAS is registered at Annecy RCS: 837 643 931&lt;/p&gt;
+
+&lt;p&gt;© Copyright BOLDCODE SAS — All rights reserved.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/mentions-legales-en/</link>
+        <guid isPermaLink="true">https://powa-accompagnement.github.io/powa-accompagnement/2014/07/18/mentions-legales-en/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
