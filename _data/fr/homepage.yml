@@ -2,8 +2,8 @@
 #   layout: features
 #- id: homepage_notre_offre
 #  layout: cards
-- id: homepage_notre_equipe
-  layout: people
+#- id: homepage_notre_equipe
+#  layout: people
 - id: homepage_notre_intention
   layout: values
 # - id: homepage_partenaires
