@@ -303,13 +303,14 @@ header {
     padding-bottom: 50px;
 
 		.intro-lead-in {
+		    font-kerning: none;
     		margin-bottom: 2rem;
     		font-family:  $fontPrimary;
     		font-size: $fontSizeTitle / 1.5;
     		color:  $colorBlack;
     		// font-style: italic;
     		line-height: 1.35;
-    		text-shadow: 0 0 5px white;
+    		text-shadow: 0 0 3px rgba(128,128,128,0.75);
 		}
 
 		.intro-heading {
@@ -364,6 +365,17 @@ header {
 		margin-top: -(7.5rem - 3.2rem);
     	margin-bottom: 7.5rem;
 	}
+}
+
+#page-top .intro-text .intro-lead-in .powa-o {
+  position: relative;
+  left: 0.01em; // fix kerning
+}
+
+#page-top .intro-text .intro-lead-in .powa-w {
+  position: relative;
+  left: 0.03em; // fix kerning
+  color: $colorSecondary;
 }
 
 .powa-dot {
