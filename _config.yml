@@ -13,7 +13,7 @@ sass:
   exclude: []
 
 livereload: false
-baseurl: "https://powa-accompagnement.github.io"
+baseurl: ""
 
 exclude: 
   - bin
