@@ -7,7 +7,7 @@ $colorBoldcodeBlack: #241c1c;
 // $colorBlack: #101010;
 $colorBlack: $colorBoldcodeBlack;
 $colorGreen: #B9F467;
-$colorYellow: #E3F983;
+$colorYellow: #faaa00;
 
 $colorGreyDark: #333;
 $colorWhite: #fefefe;
@@ -36,7 +36,7 @@ $colorPrimary: $colorBlue;
 $colorPrimaryLight: lighten($colorBlue, 10%);
 $colorPrimaryDark: darken($colorBlue, 10%);
 
-$colorSecondary: $colorLightBlue;
+$colorSecondary: $colorYellow; //LightBlue;
 $colorSecondaryLight: lighten($colorLightBlue, 10%);
 $colorSecondaryDark: darken($colorLightBlue, 10%);
 

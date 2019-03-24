@@ -305,17 +305,18 @@ header {
 		.intro-lead-in {
     		margin-bottom: 2rem;
     		font-family:  $fontPrimary;
-    		font-size: $fontSizeHuge;
+    		font-size: $fontSizeTitle / 1.5;
     		color:  $colorBlack;
     		// font-style: italic;
     		line-height: 1.35;
+    		text-shadow: 0 0 5px white;
 		}
 
 		.intro-heading {
     		margin-bottom: 4rem;
     		// text-transform: uppercase;
     		font-family:  $fontSecondary ;
-    		font-size: $fontSizeNormal;
+    		font-size: ($fontSizeNormal + $fontSizeBig) / 2;
     		font-weight: normal;
     		line-height: 1.25;
     		color:  $colorBlack;
