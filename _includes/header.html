@@ -1,0 +1,52 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">
+                <!-- <img src=" /img/logos/boldcode-logo.512p.png"  alt="" id="logo"> -->
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                {% for menuitem in site.data.header.menu %}
+                <li>
+                    <a class="page-scroll" href="{{ menuitem.href }}">{{ menuitem.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="intro-text">
+            <h1 class="intro-lead-in">{{ site.data.header.intro.lead-in }}</h1>
+            <div class="intro-heading">{{ site.data.header.intro.heading }}</div>
+            <div class="intro-dates">{{ site.data.header.intro.dates }}</div>
+            <div class="col-md-push-3 col-md-6">
+            <a href="{{ site.data.header.intro.action_href }}" class="page-scroll btn btn-xl btn-block">{{ site.data.header.intro.action }}</a>
+            </div>
+        </div>
+    </div>
+</header>
+<!--
+    {% for page in site.pages %}
+    {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+    {% endfor %}
+-->

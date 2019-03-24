@@ -1,0 +1,78 @@
+
+@import "config/constants.scss";
+
+.navbar-default {
+    padding: 25px 0;
+    border: 0;
+    background-color: $colorWhite;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    border-bottom: 1px solid $colorBlack;
+
+    .navbar-brand {
+        font-size: $fontSizeBig;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-nav > .active > a {
+        border-radius: 3px;
+    }
+
+	/*couleur de la barre en haut*/
+    &.navbar-shrink {
+        padding: 10px 0;
+        background-color:  $colorWhite;
+        border-bottom: 1px solid $colorBlack;
+    }
+
+    &.navbar-shrink .navbar-brand {
+        font-size: $fontSizeBig;
+    }
+
+	#logo {
+  		position: absolute;
+  		width: 256px;
+  		-webkit-transition: all .3s;
+  		-moz-transition: all .3s;
+  		transition: all .3s;
+  		top: -7px;
+	}
+
+	/*
+	&.navbar-shrink #logo {
+  		position: absolute;
+  		width: 140px;
+	}
+	 */
+}
+
+header {
+   	.intro-text {
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+
+   	.intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-size: $fontSizeTitle;
+        line-height: 1;
+    }
+
+   	.intro-text .intro-heading {
+        margin-bottom: 25px;
+        font-size: ($fontSizeBig + $fontSizeHuge) / 2.2;
+    }
+
+   	.intro-text .intro-dates {
+        margin-bottom: 50px;
+        font-size: $fontSizeHuge / 1.05;
+   	}
+}
+
+section {
+    padding: 150px 0;
+}
+

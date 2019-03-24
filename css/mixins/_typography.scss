@@ -1,0 +1,22 @@
+
+@import "../config/constants.scss";
+
+@mixin typography-huge {
+	font-size: $fontSizeHuge;
+	line-height: 1.25;
+}
+
+@mixin typography-big {
+	font-size: $fontSizeBig;
+	line-height: 1.35;
+}
+
+@mixin typography-normal {
+	font-size: $fontSizeNormal;
+	line-height: 2.135;
+}
+
+@mixin typography-small {
+	font-size: $fontSizeSmall;
+	line-height: 2.135;
+}

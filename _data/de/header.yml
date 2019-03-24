@@ -1,0 +1,17 @@
+intro:
+  lead-in: PFor your IT projects, adopt
+  heading: ethical outsourcing in Nepal
+  action: Discover our offer
+
+menu:
+  - title: Job
+    href: '#notre-metier'
+  - title: Offer
+    href: '#notre-offre'
+  - title: Values 
+    href: '#nos-valeurs'
+  - title: Partners
+    href: '#nos-partenaires'
+  - title: Contact
+    href: '#contactez-nous'
+

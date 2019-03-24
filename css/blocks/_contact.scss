@@ -1,0 +1,116 @@
+
+.bc-block-contact {
+    background-image: url('/img/contact/background.jpg');
+    background-color: $colorBlack;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+	h4, p {
+		color: $colorWhite;
+	}
+
+	.bc-block-heading {
+		color: $colorWhite;
+
+		.bc-block-subtitle {
+			color: $colorYellow;
+		}
+	}
+
+	.form-group {
+		margin-bottom: 25px;
+	}
+
+	.form-group input,
+	.form-group textarea {
+		padding: 20px;
+		color:  $colorPrimary ;
+	}
+
+	.form-group input.form-control {
+		height: auto;
+	}
+
+	.form-group textarea.form-control {
+		height: 157px;
+	}
+
+	.form-control:focus {
+		border-color:  $colorPrimary ;
+		box-shadow: none;
+	}
+
+	&::-webkit-input-placeholder {
+    	text-transform: uppercase;
+    	font-family:  $fontPrimary ;
+    	font-weight: 700;
+	color: #bbb;
+	}
+
+	&:-moz-placeholder {
+    	text-transform: uppercase;
+    	font-family:  $fontPrimary ;
+    	font-weight: 700;
+		color: #bbb;
+	}
+
+	&::-moz-placeholder {
+    	text-transform: uppercase;
+    	font-family:  $fontPrimary ;
+    	font-weight: 700;
+		color: #bbb;
+	}
+
+	&:-ms-input-placeholder {
+    	text-transform: uppercase;
+    	font-family:  $fontPrimary ;
+    	font-weight: 700;
+		color: #bbb;
+	}
+
+	.text-danger {
+		color: #e74c3c;
+	}
+
+	.phone-block {
+		color: white;
+		font-weight: bold;
+		clear: both;
+
+		.fa-phone {
+			margin-top: 0.5rem;
+			color: $colorYellow;
+			float: left;
+			margin-right: 10px;
+			font-size: $fontSizeBig * 1.2;
+			-moz-transform: scaleX(-1);
+        	-o-transform: scaleX(-1);
+        	-webkit-transform: scaleX(-1);
+        	transform: scaleX(-1);
+        	filter: FlipH;
+        	-ms-filter: "FlipH";
+		}
+		.title {
+			font-weight: bold;
+			text-transform: uppercase;
+			line-height: 1.25;
+			display: block;
+		}
+		.phone {
+			color: $colorYellow;
+			line-height: 1.25;
+			display: block;
+		}
+
+		&:last-child {
+			margin-bottom: 4rem;
+		}
+	}
+	.about-data {
+		color: white;
+		font-weight: bold;
+
+	}
+}
+

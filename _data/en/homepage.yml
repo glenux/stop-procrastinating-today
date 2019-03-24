@@ -1,0 +1,13 @@
+- id: homepage_notre_metier
+  layout: features
+- id: homepage_notre_offre
+  layout: cards
+#- id: homepage_notre_equipe
+#  layout: people
+- id: homepage_nos_valeurs
+  layout: values
+- id: homepage_partenaires
+  layout: partners
+- id: homepage_contact
+  layout: contact
+

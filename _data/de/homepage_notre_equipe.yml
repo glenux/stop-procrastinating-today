@@ -1,0 +1,33 @@
+id: notre-equipe
+title: Notre équipe
+subtitle: 
+
+# Team names, titles and social links
+items:
+  - name: Valentin PISTOROZZI
+    picture: valentin-pistorozzi.jpg
+    position: Management and communication
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/valentinpistorozzi/
+      - title: twitter
+        url: https://twitter.com/valentinpisto
+
+  - name: Glenn ROLLAND
+    picture: glenn-rolland.jpg
+    position: Technical expertise
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/glenux/
+      - title: twitter
+        url: https://twitter.com/glenux
+
+  - name: Bibek BASTOLA
+    picture: bibek-bastola.jpg
+    position: Team management in Nepal
+    social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bastolabibek/
+    - title: twitter
+      url: https://twitter.com/bastolabibek
+

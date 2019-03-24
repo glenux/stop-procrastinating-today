@@ -1,0 +1,40 @@
+id: notre-metier
+title: Our engagement 
+subtitle: |
+  Offering you top-quality technical services to carry out your website and mobile application projects
+
+items:
+  - title: Technical expertise 
+    icon: cogs
+    description: |
+      Our teams are expert in software development : we develop 
+      custom-made websites, e-commerce websites, web applications 
+      and mobile applications.
+
+  - title: Affordable price
+    icon: hand-holding-usd
+    description: |
+      Our top-quality technical resources are affordable for large 
+      companies as well as for startups or medium size companies.<br/><br/>
+
+  - title: Customized resources
+    icon: users
+    description: |
+      We can help you to balance your workload and to complete your teams on demand. 
+      We guarantee available developers dedicated to your company.
+
+  - title: Social impact
+    icon: hands-helping
+    description: |
+      We use the difference of revenues between countries as a leverage to invest 
+      in education access in Nepal and to improve the working conditions locally.
+      
+
+# Plus besoin de se préoccuper de la rareté des profils en
+# informatique et la gestion du turnover, 
+
+# Entre le coût du recrutement, le salaire, la gestion du turnover, etc. Il
+# est intéressant d'équilibrer ses charges avec une équipe offshore. Sans
+# remplacer votre équipe, elle vient la compléter pour respecter vos
+# engagements.
+

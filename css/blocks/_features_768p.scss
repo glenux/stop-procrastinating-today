@@ -1,0 +1,9 @@
+
+@import "../config/constants.scss";
+@import "../mixins/typography.scss";
+
+.bc-block-features {
+	.item-heading {
+		@include typography-normal;
+	}
+}

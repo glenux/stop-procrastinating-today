@@ -1,0 +1,47 @@
+id: nos-partenaires
+title: Our partners
+subtitle: They trust us
+selector: partners
+
+items:
+ - url: http://jurinepal.org.np
+   title: Justice And Right Institute -- Nepal
+   picture: justice-and-right-institute-nepal.jpg
+   picture_wide: true
+
+ - url: https://www.facebook.com/Community-Rural-Development-Organization-Nepal-152117021653785/
+   show_title: true
+   picture: community-rural-development-organization-nepal.jpg
+   title: Community Rural Development Organization Nepal
+   picture_wide: false
+
+ - url: https://watchnep.com
+   show_title: false
+   picture: watchnep.jpg
+   title: WatchNep 
+   picture_wide: false
+
+ - url: http://gitechnologynepal.com/
+   picture: girls-in-technology.jpg
+   show_title: true
+   title: Girls In Technology - Nepal
+   picture_wide: false
+
+#  - url: https://www.facebook.com/momolacafe/
+#    show_title: false
+#    picture: palpasa-coffee.jpg
+#    title: Palpasa Cafe
+#    picture_wide: false
+
+ - url: https://www.ticketforchange.org
+   show_title: false
+   picture: ticket-for-change.jpg
+   title: Ticket For Change
+   picture_wide: false
+
+#  - url: https://www.facebook.com/groups/QUAKEVOLUNTEERS/
+#    show_title: false
+#    picture: quick-volunteer.jpg
+#    title: Quick Volunteers
+#    picture_wide: false
+

@@ -1,0 +1,18 @@
+<!-- Team Section -->
+<section id="{{ block_data.id }}" class="bc-block bc-block-values">
+    <div class="container">
+        <div class="row">
+            <div class="bc-block-heading col-lg-12 text-center">
+                <h2 class="bc-block-title">{{ block_data.title }}</h2>
+                <h3 class="bc-block-subtitle">{{ block_data.subtitle }}</h3>
+            </div>
+        </div>
+        <div class="row">
+            {% for item in block_data.items %}
+            <div class="col-xs-12 col-sm-12 col-md-6">
+            	{{ item.description | markdownify }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

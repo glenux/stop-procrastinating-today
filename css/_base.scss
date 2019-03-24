@@ -1,0 +1,366 @@
+
+@import "config/constants.scss";
+
+html {
+	font-size: 10px;
+	// font-size: 62.5%;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: $fontSecondary;
+    color:  $colorSecondaryDark;
+}
+
+.text-muted {
+    color:  $colorGreyDark;
+}
+
+.text-primary {
+    color:  $colorPrimary ;
+}
+
+p, ul {
+	@include typography-normal;
+	margin-bottom: 3.2rem;
+}
+
+ul {
+	padding-left: 2rem;
+}
+
+p.large {
+	@include typography-big;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+}
+
+a {
+    color:  $colorPrimary ;
+}
+
+a:link
+{
+ text-decoration:none;
+} 
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color:  $colorPrimary ;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    // text-transform: uppercase;
+    font-family:  $fontPrimary ;
+    font-weight: 700;
+}
+
+h3.text-muted2.clearfix{
+  	text-align: justify;
+}
+
+.img-centered {
+    margin: 0 auto;
+}
+
+.bg-light-gray {
+    background-color: #f7f7f7;
+}
+
+.bg-darkest-gray {
+    background-color: #222;
+}
+
+.btn-primary {
+    border-color:  $colorPrimary ;
+    text-transform: uppercase;
+    font-family:  $fontPrimary ;
+    font-weight: 700;
+    color: $colorWhite;
+    background-color:  $colorPrimary ;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    border-color:  $colorYellow;
+    color: #fff;
+    background-color:  $colorYellow;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    background-image: none;
+}
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+    border-color:  $colorPrimary;
+    background-color:  $colorPrimary;
+}
+
+.btn-primary .badge {
+    color:  $colorPrimary ;
+    background-color: #fff;
+}
+
+.btn-xl {
+    padding: 20px 40px;
+    border-color:  $colorPrimary;
+    border-radius: 3px;
+    // text-transform: uppercase;
+    font-family:  $fontSecondary;
+    font-size: $fontSizeNormal;
+    font-weight: bold;
+    color: $colorWhite;
+    background-color:  $colorPrimary;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+
+}
+
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    border-color:  $colorSecondary;
+    color: $colorWhite;
+    background-color: $colorSecondary;
+}
+
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    background-image: none;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active {
+    border-color:  $colorPrimary ;
+    background-color:  $colorPrimary ;
+}
+
+.btn-xl .badge {
+    color:  $colorPrimary ;
+    background-color: $colorWhite;
+}
+
+.navbar-default {
+    border-color: $colorWhite;
+    border-bottom: 1px solid $colorBlack;
+    background-color: $colorWhite;
+
+	.navbar-brand {
+  		position: relative;
+    	font-family: $fontPrimary;
+    	color: #222; 
+
+		&:hover,
+		&:focus,
+		&:active,
+		&.active {
+    		color:  $colorSecondary ;
+		}
+	}
+
+	.navbar-collapse {
+    	border-color: rgba(255,255,255,.02);
+	}
+
+	.navbar-toggle {
+    	border-color:  $colorPrimary ;
+    	background-color:  $colorPrimary ;
+	}
+
+	.navbar-toggle .icon-bar {
+    	background-color: $colorWhite;
+	}
+
+	.navbar-toggle:hover,
+	.navbar-toggle:focus {
+    	background-color:  $colorPrimary ;
+	}
+
+	.nav li a {
+    	text-transform: uppercase;
+    	font-family:  $fontPrimary ;
+    	font-size: $fontSizeNormal;
+    	padding: 7px 5px;
+    	margin: 8px 5px 0px 5px;
+    	font-weight: 400;
+    	letter-spacing: 1px;
+    	color:  $colorBlack ;
+
+    	-webkit-transition: all ease .35s;
+    	-moz-transition: all ease .35s;
+    	transition: all ease .35s;
+	}
+
+	.nav li a:hover,
+	.nav li a:focus {
+    	outline: 0;
+    	color:  $colorPrimary ;
+	}
+
+	.navbar-nav > .active > a {
+    	border-radius: 0;
+    	color: $colorWhite;
+    	background-color:  $colorPrimary ;
+	}
+
+	.navbar-nav > .active > a:hover,
+	.navbar-nav > .active > a:focus {
+    	color: $colorWhite;
+    	background-color:  $colorSecondary ;
+	}
+
+	#logo {
+  		position: absolute;
+  		width: 140px;
+  		-webkit-transition: all .3s;
+  		-moz-transition: all .3s;
+  		transition: all .3s;
+  		top: 8px;
+	}
+
+	&.navbar-shrink #logo {
+  		width: 140px;
+  		-webkit-transition: all .3s;
+  		-moz-transition: all .3s;
+  		transition: all .3s;
+  		top: 8px;
+	}
+}
+
+header {
+    text-align: center;
+    color:  $colorWhite ;
+    background-attachment: scroll;
+    background-image: url('../img/photo2.webp');
+    background-position: center 10%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 100vh;
+
+	.container {
+		height: 100%;
+	}
+
+	.intro-text {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		// align-items: center;
+		height: 100%;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+		.intro-lead-in {
+    		margin-bottom: 2rem;
+    		font-family:  $fontPrimary;
+    		font-size: $fontSizeHuge;
+    		color:  $colorBlack;
+    		// font-style: italic;
+    		line-height: 1.35;
+		}
+
+		.intro-heading {
+    		margin-bottom: 4rem;
+    		// text-transform: uppercase;
+    		font-family:  $fontSecondary ;
+    		font-size: $fontSizeNormal;
+    		font-weight: normal;
+    		line-height: 1.25;
+    		color:  $colorBlack;
+    		// text-shadow: 0 0 50px black;
+		}
+
+		.intro-dates {
+    		margin-bottom: 2rem;
+    		font-family:  $fontPrimary;
+    		font-size: $fontSizeHuge;
+    		color:  $colorBlack;
+    		// font-style: italic;
+    		line-height: 1.35;
+		}
+
+	}
+}
+
+.bc-block {
+    padding: 100px 0;
+
+	.bc-block-heading {
+		text-align: center;
+    	margin-bottom: 3.2rem;
+	}
+
+	.bc-block-title {
+    	margin-top: 0;
+    	font-size: $fontSizeHuge;
+	}
+
+	.bc-block-subtitle {
+		@include typography-big;
+
+    	margin-bottom: 7.5rem;
+    	text-transform: none;
+    	font-family:  $fontSecondary ;
+    	font-weight: normal;
+	}
+
+    .bc-block-action {
+    	margin-bottom: 3.2rem;
+	}
+	.bc-block-heading + .bc-block-action {
+		margin-top: -(7.5rem - 3.2rem);
+    	margin-bottom: 7.5rem;
+	}
+}

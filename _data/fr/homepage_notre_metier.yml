@@ -1,0 +1,42 @@
+id: notre-metier
+title: Notre métier
+subtitle: |
+  Vous offrir l'accès à des compétences techniques de haut niveau pour réaliser vos projets web et mobiles
+
+items:
+  - title: Expertise technique
+    icon: cogs
+    description: |
+      Nos équipes sont expertes en développement logiciel : nous fabriquons
+      sites internet, sites e-commerce, applications web et applications
+      mobiles sur-mesure.
+
+  - title: Tarif abordable
+    icon: hand-holding-usd
+    description: |
+      Nos ressources techniques de haut niveau sont à un prix abordable aussi
+      bien pour les grands groupes que pour les TPE et PME.<br/><br/>
+
+  - title: Ressources sur-mesure
+    icon: users
+    description: |
+      Nous vous aidons à équilibrer votre charge de travail et compléter vos
+      équipes à la demande. Nous garantissons des développeurs dédiés à votre
+      entreprise.
+
+  - title: Impact social
+    icon: hands-helping
+    description: |
+      Nous utilisons les différences de revenu entre pays pour investir dans des
+      activités d’accès à l’éducation et améliorer les conditions de travail
+      localement.
+      
+
+# Plus besoin de se préoccuper de la rareté des profils en
+# informatique et la gestion du turnover, 
+
+# Entre le coût du recrutement, le salaire, la gestion du turnover, etc. Il
+# est intéressant d'équilibrer ses charges avec une équipe offshore. Sans
+# remplacer votre équipe, elle vient la compléter pour respecter vos
+# engagements.
+

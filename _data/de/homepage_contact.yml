@@ -1,0 +1,41 @@
+id: contactez-nous
+title: Contact us
+subtitle: |-
+  We are at your disposal for any request for information or questions 
+  you may have
+
+consent: |-
+  The data we collect in this form will be kept for one year 
+  and then deleted, they will not be shared or sold, they 
+  will only be accessible internally to the person 
+  responsible for answering your questions.
+
+action: Send message
+
+errors:
+  name_required: Bitte geben Sie Ihren Vornamen und Ihren Nachnamen ein
+  company_required: Bitte geben Sie den Namen Ihrer Firma ein
+  email_required: Bitte geben Sie Ihre E-Mail-Adresse ein
+  phone_required: Bitte geben Sie Ihre Telefonnummer ein
+  message_required: Bitte geben Sie Ihre Nachricht ein
+
+
+placeholders:
+  name: Votre nom *
+  company: Votre entreprise *
+  email: Votre email *
+  phone: Votre n° de téléphone *
+  message: Votre message
+
+address: |-
+  <h4>boldcode_</h4>
+  <p>205 chemin des Pressouds<br/>
+  74370 Argonay<br/>
+  France</p>
+
+phones:
+  - title: France
+    number: +33 6 73 98 39 56
+  - title: Nepal
+    number: +977 985 119 9395
+

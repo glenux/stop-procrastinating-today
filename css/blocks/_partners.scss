@@ -1,0 +1,23 @@
+@import "../config/constants.scss";
+
+.bc-block-partners {
+
+	.partner-item {
+		text-align: center;
+		padding: 2rem;
+
+		a {
+			display: flex;
+    		flex-direction: column;
+    		justify-content: center;
+			height: auto;
+		}
+
+		img {
+			width: 100%;
+		}
+
+		.caption {
+		}
+	}
+}

@@ -1,0 +1,40 @@
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <ul class="find-us">
+                    {% for network in site.social %}
+                    <li class="social-media"><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i>{{ network.username }} </a>
+                    </li>
+                    {% endfor %}
+                    <!-- <li class="blog"><a href="https://blog.boldcode.io" class="contact-link ">le Blog Boldcode</a>
+                    </li>-->
+                </ul>
+            </div>
+            <div class="col-md-4">
+            	<ul class="about-the-site">
+            	<!--
+                <li class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</li>
+                -->
+                {% if site.languages.size > 1 %}
+                <li >
+                <ul class="translations">
+  				{% for tongue in site.languages %}
+				<li><a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ site.data.lang[tongue] }}</a></li>
+  				{% endfor %}
+				</ul>
+				</li>
+                {% endif %}
+            	</ul>
+            </div>
+            <div class="col-md-4">
+                <ul class="quicklinks">
+                    {% for link in site.data.footer.menu %}
+                    <li><a href="{{ link.href }}" class="contact-link " data-toggle="modal">{{ link.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

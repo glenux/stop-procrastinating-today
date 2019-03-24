@@ -1,0 +1,20 @@
+id: notre-offre
+title: Our offer
+subtitle: We develop the digital tools you need to solve your business challenges
+selector: service
+action: Contact us
+
+items:
+  - title: Conception
+    description: |
+      Nos ingénieurs vous accompagnent sur la conception technique et la
+      réalisation du cahier des charges.
+  - title: Développement
+    description: |
+      Nos équipes dédiées réalisent sur-mesure votre site internet, votre site
+      e-commerce et vos applications web ou mobiles.
+  - title: Maintenance
+    description: |
+      Nos équipes reprennent, corrigent et adaptent vos outils numériques pour
+      accompagner vos besoins.
+

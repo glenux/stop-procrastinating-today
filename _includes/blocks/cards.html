@@ -1,0 +1,43 @@
+<!-- Cards block -->
+<section id="{{ block_data.id }}" class="bc-block-cards bc-block">
+    <div class="container">
+        <div class="row">
+            <div class="bc-block-heading col-lg-12">
+                <h2 class="bc-block-title">{{ block_data.title }}</h2>
+                <h3 class="bc-block-subtitle">{{ block_data.subtitle }}</h3>
+            </div>
+
+            <div class="bc-block-action col-md-push-4 col-md-4">
+            	<a href="#contactez-nous" class="page-scroll btn btn-xl btn-block">{{ block_data.action }}</a>
+            </div>
+        </div>
+        <div class="row">
+        {% for card in site.posts reversed %}
+        	{% if card.type == block_data.selector and card.lang == site.active_lang %}
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                {% if card.interactive == true %}
+                <a href="#portfolioModal{{ card.modal-target-id }}" class="portfolio-link" data-toggle="modal">
+                {% endif %}
+                	{% if card.interactive == true %}
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                            <i class="fa fa-plus fa-3x"></i>
+                        </div>
+                    {% endif %}
+                    <img src=" /img/cards/{{ card.thumbnail }}" 
+                    	 class="img-responsive img-centered" 
+                    	 alt=""
+                    	 >
+                {% if card.interactive == true %}
+                </a>
+                {% endif %}
+                <div class="portfolio-caption">
+                    <h4>{{ card.title }}</h4>
+                    <p class="text-muted">{{ card.subtitle }}</p>
+                </div>
+            </div>
+        	{% endif %}
+        {% endfor %}
+        </div>
+    </div>
+</section>

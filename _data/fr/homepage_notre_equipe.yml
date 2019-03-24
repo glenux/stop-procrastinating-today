@@ -1,0 +1,62 @@
+id: notre-equipe
+title: Notre équipe
+subtitle: 
+
+# Team names, titles and social links
+items:
+  - name: Anne-Laure ROMANET
+    picture: romanet-anne-laure.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anne-laure-romanet-7154181b/
+      - title: twitter
+        url: https://twitter.com/alromanet
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+

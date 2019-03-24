@@ -1,0 +1,12 @@
+intro:
+  lead-in: POWA
+  heading: Préparer le futur du travail
+  action: Contactez-nous
+  dates: -
+
+menu:
+  - title: Accueil
+    href: '#page-top'
+  - title: Notre intention
+    href: '#notre-intention'
+
