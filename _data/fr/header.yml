@@ -1,5 +1,5 @@
 intro:
-  lead-in: POW<span class="powa-dot">A</span>
+  lead-in: PO<span class="powa-dot">W</span>A
   heading: Préparer le futur du travail
   action: Contactez-nous
   dates: 
@@ -7,6 +7,6 @@ intro:
 menu:
   - title: Accueil
     href: '#page-top'
-  - title: Notre intention
-    href: '#notre-intention'
+  - title: Notre manifeste
+    href: '#notre-manifeste'
 
