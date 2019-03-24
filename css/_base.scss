@@ -306,7 +306,7 @@ header {
 		    font-kerning: none;
     		margin-bottom: 2rem;
     		font-family:  $fontPrimary;
-    		font-size: $fontSizeTitle / 1.5;
+    		font-size: $fontSizeTitle / 1.3;
     		color:  $colorBlack;
     		// font-style: italic;
     		line-height: 1.35;
@@ -317,7 +317,7 @@ header {
     		margin-bottom: 4rem;
     		// text-transform: uppercase;
     		font-family:  $fontSecondary ;
-    		font-size: ($fontSizeNormal + $fontSizeBig) / 2;
+    		font-size: ($fontSizeNormal + $fontSizeBig) / 1.85;
     		font-weight: normal;
     		line-height: 1.25;
     		color:  $colorBlack;
