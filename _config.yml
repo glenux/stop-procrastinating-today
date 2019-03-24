@@ -30,7 +30,7 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
 
-url: "https://powa-accompagnement.github.io"
+url: "https://powa-accompagnement.github.io/powa-accompagnement/"
 # https://artofhostingparis.org
 title: POWA Accompagnement
 email: team@powa-accompagnement.org
