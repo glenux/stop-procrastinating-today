@@ -5,15 +5,11 @@
     padding: 25px 0;
     border: 0;
     background-color: $colorWhite;
-    -webkit-transition: all .3s;
-    -moz-transition: all .3s;
     transition: all .3s;
     border-bottom: 1px solid $colorBlack;
 
     .navbar-brand {
         font-size: $fontSizeBig;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
         transition: all .3s;
     }
 
@@ -35,8 +31,6 @@
 	#logo {
   		position: absolute;
   		width: 256px;
-  		-webkit-transition: all .3s;
-  		-moz-transition: all .3s;
   		transition: all .3s;
   		top: -7px;
 	}
