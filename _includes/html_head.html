@@ -4,13 +4,12 @@
     <meta http-equiv="Content-Language" content="{{site.active_lang}}">
     <title>{{ site.title }} | {% if page.title %}{{ page.title }}{% else %}{{ site.baseline_i18n[site.active_lang] }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
- 	 <link rel="shortcut icon" href="{{ "/img/logo-square-color-whitebg.16p.png" | prepend: site.baseurl }}" type="image/png"/>
- 	 <link rel="icon" sizes="32x32" href="{{ "/img/logo-square-color-whitebg.32p.png" | prepend: site.baseurl }}" type="image/png"/>
- 	 <link rel="icon" sizes="64x64" href="{{ "/img/logo-square-color-whitebg.64p.png" | prepend: site.baseurl }}" type="image/png"/>
- 	 <link rel="icon" sizes="96x96" href="{{ "/img/logo-square-color-whitebg.96p.png" | prepend: site.baseurl }}" type="image/png"/>
+ 	<link rel="shortcut icon" href="{{ "/img/logo-square-color-whitebg.16p.png" | prepend: site.baseurl }}" type="image/png"/>
+ 	<link rel="icon" sizes="32x32" href="{{ "/img/logo-square-color-whitebg.32p.png" | prepend: site.baseurl }}" type="image/png"/>
+ 	<link rel="icon" sizes="64x64" href="{{ "/img/logo-square-color-whitebg.64p.png" | prepend: site.baseurl }}" type="image/png"/>
+ 	<link rel="icon" sizes="96x96" href="{{ "/img/logo-square-color-whitebg.96p.png" | prepend: site.baseurl }}" type="image/png"/>
 
-     <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}">
+    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}">
 
     <!-- Custom Fonts -->
     <!-- <link rel="stylesheet" href="{{ "/css/ext/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}"> -->
