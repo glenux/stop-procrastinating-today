@@ -1,5 +1,6 @@
 intro:
-  lead-in: P<span class="powa-o">O</span><span class="powa-w">W</span>A
+  lead-in: >
+    P<span class="powa-o">O</span><span class="powa-w">W</span>A
   heading: Préparons le futur du travail
   action: Contactez-nous
   action_href: mailto:team@powa-accompagnement.org
