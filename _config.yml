@@ -41,7 +41,10 @@ baseline_i18n:
   #  en: "Ethical outsourcing in Nepal"
 
 description_i18n:
-  fr: "Préparer le futur du travail"
+  fr: |
+    Préparons le futur du travail. Notre mission : permettre
+    à chacun d'agir sur son parcours professionnel"
+
   # en: "Our engagement: offering you top-quality technical services to carry out your website and mobile application projects"
 
 # JEKYLL PLUGINS
