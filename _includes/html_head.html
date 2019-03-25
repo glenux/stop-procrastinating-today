@@ -37,7 +37,15 @@
 
 	{% seo title=false %}
     <meta name="description" content="{{ site.description_i18n[site.active_lang] }}">
+    <meta property="og:image" content="{{site.url}}/img/logo-square-color-whitebg.1024p.png">
     <meta property="og:description" content="{{ site.description_i18n[site.active_lang] }}">
 
+    <meta property="twitter:title" content="{{ site.title }}">
+    <meta property="twitter:description" content="{{ site.description_i18n[site.active_lang] }}">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ site.url }}">
+    <meta name="twitter:image:src" content="{{site.url}}/img/logo-rect-color-whitebg.1024p.png">
+    <!-- <meta property="twitter:site" content="@POWA_Accompagnement">
+    <meta property="twitter:creator" content="@POWA_Accompagnement"> -->
 </head>
 
