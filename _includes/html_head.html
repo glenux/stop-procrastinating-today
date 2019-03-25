@@ -23,14 +23,14 @@
 
 	<link rel="alternate"
       hreflang="{{site.default_lang}}"
-      href="{{ site.baseurl }}{{page.permalink}}" />
+      href="{{site.url}}{{page.permalink}}" />
 		{% for lang in site.languages %}
 		{% if lang == site.default_lang %}
   	  	  {% continue %}
 		{% endif %}
 	<link rel="alternate"
     	hreflang="{{lang}}"
-    	href="{{ site.baseurl }}/{{lang}}{{page.permalink}}" />
+    	href="{{site.url}}/{{lang}}{{page.permalink}}" />
 	{% endfor %}
 
 
