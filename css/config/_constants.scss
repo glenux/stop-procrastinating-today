@@ -4,6 +4,7 @@ $colorBlue: #091C58;
 $colorLightBlue: #0F46C8; // #085E9F;
 $colorSea: #1CD9A4;
 $colorBoldcodeBlack: #1c1c1c;
+$colorRed: darkred;
 
 // $colorBlack: #101010;
 $colorBlack: $colorBoldcodeBlack;
@@ -33,7 +34,7 @@ $fontSizeBig: $fontSizeNormal * $sizeFactor;
 $fontSizeSmall: $fontSizeNormal / $sizeFactor;
 
 /* Define primary & secondary values */
-$colorPrimary: $colorBlue;
+$colorPrimary: $colorRed;
 $colorPrimaryLight: lighten($colorBlue, 10%);
 $colorPrimaryDark: darken($colorBlue, 10%);
 

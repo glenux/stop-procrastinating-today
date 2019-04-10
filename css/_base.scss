@@ -272,7 +272,7 @@ header {
     text-align: center;
     color:  $colorWhite ;
     background-attachment: scroll;
-    background-image: url('../img/HT4A2442-white.webp');
+    background-image: url('../img/header-bg.webp');
     background-position: center 10%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -295,7 +295,7 @@ header {
 		    font-kerning: none;
     		margin-bottom: 2rem;
     		font-family:  $fontPrimary;
-    		font-size: $fontSizeTitle / 1.3;
+    		font-size: $fontSizeTitle / 4.5;
     		color:  $colorBlack;
     		// font-style: italic;
     		line-height: 1.35;
@@ -306,7 +306,7 @@ header {
     		margin-bottom: 4rem;
     		// text-transform: uppercase;
     		font-family:  $fontSecondary ;
-    		font-size: ($fontSizeNormal + $fontSizeBig) / 1.85;
+    		font-size: $fontSizeBig * 1.15;
     		font-weight: normal;
     		line-height: 1.25;
     		color:  $colorBlack;

@@ -1,17 +1,12 @@
 intro:
-  lead-in: For your IT projects, adopt
-  heading: ethical outsourcing in Nepal
-  action: Discover our offer
+  lead-in: Stop pro&shy;cra&shy;sti&shy;na&shy;ting
+  heading: Get back to work, now!
+  action: Need help? Contact us
+  action_href: mailto:stop@procrastinating.today
+  dates: 
 
 menu:
-  - title: Job
-    href: '#notre-metier'
-  - title: Offer
-    href: '#notre-offre'
-  - title: Values 
-    href: '#nos-valeurs'
-  - title: Partners
-    href: '#nos-partenaires'
-  - title: Contact
-    href: '#contactez-nous'
-
+  - title: Home
+    href: '#page-top'
+  #- title: Notre mission
+  #  href: '#notre-mission'

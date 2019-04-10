@@ -4,30 +4,36 @@ subtitle:
 
 # Team names, titles and social links
 items:
-  - name: Valentin PISTOROZZI
-    picture: valentin-pistorozzi.jpg
-    position: Management and communication
+  - name: Mariane Figarol
+    picture: figarol-marianne.jpg
     social:
       - title: linkedin
-        url: https://www.linkedin.com/in/valentinpistorozzi/
+        url: https://fr.linkedin.com/in/marianne-figarol-01711858
       - title: twitter
-        url: https://twitter.com/valentinpisto
+        url: https://mobile.twitter.com/mariannefigarol
 
-  - name: Glenn ROLLAND
-    picture: glenn-rolland.jpg
-    position: Technical expertise
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
     social:
       - title: linkedin
-        url: https://www.linkedin.com/in/glenux/
+        url: https://www.linkedin.com/in/anonymous/
       - title: twitter
-        url: https://twitter.com/glenux
+        url: https://twitter.com/anonymous
 
-  - name: Bibek BASTOLA
-    picture: bibek-bastola.jpg
-    position: Team management in Nepal
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
     social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/bastolabibek/
-    - title: twitter
-      url: https://twitter.com/bastolabibek
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
+  - name: Anonymous ANONYMOUS
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/anonymous/
+      - title: twitter
+        url: https://twitter.com/anonymous
+
 

@@ -1,30 +1,30 @@
 id: contactez-nous
-title: Contact us
+title: Contactez-nous
 subtitle: |-
-  We are at your disposal for any request for information or questions 
-  you may have
+  Nous sommes à votre disposition pour toute demande d'informations ou
+  questions
 
 consent: |-
-  The data we collect in this form will be kept for one year 
-  and then deleted, they will not be shared or sold, they 
-  will only be accessible internally to the person 
-  responsible for answering your questions.
+  Les données que nous collectons dans ce formulaire seront conservées une
+  année puis supprimées, elles ne seront ni partagées ni vendues, elles ne
+  seront accessibles qu’en interne à la personne chargée de répondre à vos
+  questions.
 
-action: Send message
+action: Envoyer le message
 
 errors:
-  name_required: Please enter your first name and your last name
-  company_required: Please enter the name of your company
-  email_required: Please enter your email address
-  phone_required: Please enter your phone number address
-  message_required: Please enter your message
-
+  name_required: Entrez votre nom et prénom svp.
+  company_required: Entrez le nom de votre entreprise svp.
+  email_required: Entrez votre adresse email svp.
+  phone_required: Entrez votre numéro de téléphone svp.
+  message_required: Entrez votre message svp.
+  
 placeholders:
-  name: Your name *
-  company: Your company *
-  email: Your email address *
-  phone: Your phone number *
-  message: Your message
+  name: Votre nom *
+  company: Votre entreprise *
+  email: Votre email *
+  phone: Votre n° de téléphone *
+  message: Votre message
 
 address: |-
   <h4>boldcode_</h4>
@@ -35,6 +35,6 @@ address: |-
 phones:
   - title: France
     number: +33 6 73 98 39 56
-  - title: Nepal
+  - title: Népal
     number: +977 985 119 9395
 

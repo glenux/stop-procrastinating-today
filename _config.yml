@@ -2,8 +2,8 @@
 # MANDATORY SITE SETTINGS
 # =======================
 
-languages: ["fr"] #, "en"] # de
-default_lang: "fr"
+languages: ["en"] #, "en"] # de
+default_lang: "en"
 exclude_from_localization: ["js", "img", "css"]
 parallel_localization: false
 
@@ -30,24 +30,21 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
 
-url: "https://powa-accompagnement.org"
+url: "https://stop.procrastinating.today"
 
 # https://artofhostingparis.org
-title: POWA Accompagnement
-email: team@powa-accompagnement.org
+title: STOP PROCRASTINATING
+email: stop@procrastinating.today
 
 baseline_i18n:
-  fr: "Préparons le futur du travail"
+  en: "STOP PROCRASTINATING"
   #  en: "Ethical outsourcing in Nepal"
 
 description_i18n:
-  fr: |
-    POWA : Préparons le futur du travail.
+  en: |
+    STOP PROCRASTINATING
     
-    Notre mission  : permettre
-    à chacun d'agir sur son parcours professionnel.
-    
-    Notre objectif : transférer des méthodes et ressources pédagogiques aux professionnels et non-professionnels qui accompagnent les jeunes dans leurs problématiques d’orientation et d’insertion.
+    Our mission  : allow everyone to have an impact on their own lives
 
   # en: "Our engagement: offering you top-quality technical services to carry out your website and mobile application projects"
 
@@ -55,7 +52,7 @@ description_i18n:
 # ==============
 
 # Jekyll SEO plugin
-lang: fr_FR
+lang: en_US
 # twitter:
 #     username: boldcode_io
 

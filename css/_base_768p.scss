@@ -4,9 +4,10 @@
 .navbar-default {
     padding: 25px 0;
     border: 0;
-    background-color: $colorWhite;
+    // background-color: $colorWhite;
+    background-color: transparent;
     transition: all .3s;
-    border-bottom: 1px solid $colorBlack;
+    // border-bottom: 1px solid $colorBlack;
 
     .navbar-brand {
         font-size: $fontSizeBig;
@@ -51,13 +52,13 @@ header {
 
    	.intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-size: $fontSizeTitle;
+        font-size: $fontSizeTitle / 1.5;
         line-height: 1;
     }
 
    	.intro-text .intro-heading {
         margin-bottom: 25px;
-        font-size: ($fontSizeBig + $fontSizeHuge) / 2.3;
+        font-size: $fontSizeHuge * 2.15;
     }
 
    	.intro-text .intro-dates {
