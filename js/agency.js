@@ -65,6 +65,18 @@ $(document).ready(function(){
 	});
 
 
+    // console.log(window.demoText);
+	$("header .intro-heading .typed-text").typed({
+		strings: window.typedText,
+		showCursor: true,
+		smartBackspace: true,
+		cursorChar: '!',
+		loop: true,
+		typeSpeed: 40,
+		backDelay: 1200
+	});
+
+
 	var hash = document.location.hash;
 	var $window = $(window);
 	$(hash).modal('show');
