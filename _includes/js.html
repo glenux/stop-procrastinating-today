@@ -8,6 +8,7 @@
 <script src=" {{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
 <script src=" {{ "/js/classie.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
 <script src=" {{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
+<script src=" {{ "/js/typed.min.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
 
 <!-- Contact Form JavaScript -->
 <!-- <script src=" {{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script> -->
@@ -19,6 +20,15 @@
 {% endcomment %}
 
 <!-- Custom Theme JavaScript -->
+<script>
+	window.typedText = [
+		"Make a choice", 
+		"Do something",
+		"Have an impact",
+		"Make the right thing",
+		"Build your dreams into reality"
+	];
+</script>
 <script src=" {{ "/js/agency.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
 
 <!-- Make sure HTTPS version of the site is used -->

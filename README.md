@@ -17,3 +17,17 @@
 For more details, read [documentation](http://jekyllrb.com/)
 
 
+///
+
+Si tu es capable de lire ce message, tu es assez concentré pour reprendre une activité!
+
+Make a choice
+
+Do something
+
+Have an impact
+
+Make the right thing
+
+Build your dreams into reality
+
